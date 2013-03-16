@@ -1,1 +1,2 @@
 The resource text
+A second resource
